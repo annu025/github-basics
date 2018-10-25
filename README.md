@@ -1,2 +1,2 @@
 # github-basics
-Basics to GitHub. Commands and demos for easy learning.
+Basics to understand the workflow of GitHub.
