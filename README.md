@@ -47,4 +47,10 @@ This stages the file on your local.
 This means that local branch is one step ahead of the master branch.
 The next step of pushing the updates on to GitHub repo will then mark the master branch to be in sync with the local.
 
+# Publishing changes to Git
+## $git push origin master 
+The command prompt then asks for username and password.
+After the right credentials, the staged files on local repository are published on to Git.
+ 
+
 
